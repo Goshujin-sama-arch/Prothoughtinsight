@@ -29,6 +29,12 @@ body {
             color: black;
         }
         
+
+   . font {
+       font-size: 16px
+     }
+
+
     .header {
   background-color: #FFA500; /* Orange background */
   padding: 30px 50px;
