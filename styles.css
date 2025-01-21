@@ -16,9 +16,6 @@
             width: 80%;
         }
         
-        .container a{
-           
-        }
         
          h1{
             font-family: fantasy;
@@ -62,6 +59,7 @@
   text-decoration: none;
   font-weight: bold;
   color: black;
+  font-size: 14px;
   margin-left: 20px;
 }
 
