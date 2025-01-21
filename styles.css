@@ -1,4 +1,4 @@
-body {
+      body {
             font-family: Arial, sans-serif;
             background-color: #f5f5f5;
             margin: 0 auto;
@@ -29,17 +29,6 @@ body {
             color: black;
         }
         
-
-   .font {
-       font-size: 14px;
-     }
-       
-
-   .font nav {
-       font-weight: bold;
-       text-decoration: none;
-       color: black;
-     }
 
 
     .header {
