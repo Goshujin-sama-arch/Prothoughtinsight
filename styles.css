@@ -3,6 +3,7 @@
             background-color: #f5f5f5;
             margin: 0 auto;
             padding: 0 auto;
+            font-size: 14px;
         }
 
         .container {
@@ -29,12 +30,12 @@
 
 
     .header {
-  background-color: #FFA500; /* Orange background */
+  background-color: #FFA500; 
   padding: 30px 50px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border-bottom: 3px solid #ff4500; /* Red bottom border */
+  border-bottom: 3px solid #ff4500;
 }
 
 .logo {
@@ -63,12 +64,12 @@
 }
 
 .footer {
-  background-color: #FFA500; /* Orange background */
+  background-color: #FFA500;
   padding: 30px 50px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border-top: 3px solid #ff4500; /* Red bottom border */
+  border-top: 3px solid #ff4500;
 }
 
 #text {
@@ -111,7 +112,7 @@
 
   .nav a {
     margin: 0 10px;
-    font-size: 20px;
+    font-size: 15px;
   }
 
   .header {
@@ -178,7 +179,7 @@
  
 
   .nav a {
-    font-size: 35px;
+    font-size: 25px;
   }
   
     .footer {
