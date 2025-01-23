@@ -62,15 +62,6 @@
   margin-left: 20px;
 }
 
-.current{
-  text-decoration: none;
-  font-weight: bold;
-  color: black;
-  font-size: 14px;
-  margin-left: 20px;
-}
-
-
 .footer {
   background-color: #FFA500; /* Orange background */
   padding: 30px 50px;
