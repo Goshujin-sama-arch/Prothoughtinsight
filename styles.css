@@ -100,43 +100,6 @@
 }
 
 
-/* Mobile View */
-@media (max-width: 767px) {
-  .nav {
-    display: inline;
-    justify-content: center;
-    width: 100%;
-  }
-
-  .nav a {
-    font-size: 15px;
-    padding: 5px 5px;
-  }
-
-  .header {
-    flex-direction: column;
-    align-items: center;
-  }
-  
-  
-  .footer {
-    flex-direction: column;
-    align-items: center;
-  }
-}
-
-
-        .title {
-            text-align: center;
-            font-size: 25px;
-            font-weight: bold;
-            margin-bottom: 20px;
-        }
-
-        .title span {
-            color: orange;
-        }
-
         .grid {
             display: grid;
             grid-template-columns: repeat(3, 1fr);
