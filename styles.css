@@ -31,7 +31,6 @@ body {
         
     .header {
   background-color: #FFA500; /* Orange background */
-  padding: 30px 50px;
   display: flex;
   justify-content: space-between;
   align-items: center;
