@@ -28,41 +28,45 @@
         }
         
 
-
-    .header {
-  background-color: #FFA500; 
-  padding: 30px 50px;
-  display: flex;
-  justify-content: space-between;
-  position: center;
-  border-bottom: 3px solid #ff4500;
+header {
+    background-color: orange;
+    text-align: center; 
+    padding: 20px 0; 
+    font-family: Arial, sans-serif; 
 }
 
-.logo {
-  font-weight: bold;
-  font-weight: 2em;
+header h1 {
+    font-size: 2rem; 
+    font-weight: bold; 
+    color: black; 
+    margin: 0; 
 }
 
-.prothought {
-  color: black;
-  font-weight: bold;
-  font-size: 2em;
+header nav {
+    margin-top: 10px; 
 }
 
-.insight {
-  color: white;
-  font-weight: bold;
-  font-size: 2em;
+header nav a {
+    text-decoration: none; 
+    color: black; 
+    font-weight: bold; 
+    margin: 0 15px; 
+    font-size: 1rem; 
+}
+
+header nav a:hover {
+    color: white; 
 }
 
 
-.nav a {
-  text-decoration: none;
-  font-weight: bold;
-  color: black;
-  position: center;
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 1.5rem; 
+    }
+    header nav a {
+        font-size: 0.9rem; 
+    }
 }
-
 .footer {
   background-color: #FFA500;
   padding: 30px 50px;
