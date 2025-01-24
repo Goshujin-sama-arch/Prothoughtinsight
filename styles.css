@@ -39,7 +39,7 @@ body {
 }
 
 .logo {
-  font-size: 40px;
+  font-size: 30px;
   font-weight: bold;
 }
 
@@ -85,22 +85,6 @@ body {
     color: black;
     font-weight: bold;
 }
-
-.logo {
-  font-size: 40px;
-  font-weight: bold;
-}
-
-.prothought {
-  color: black;
-  font-weight: bold;
-}
-
-.insight {
-  color: white;
-  font-weight: bold;
-}
-
 
 /* Mobile View */
 @media (max-width: 767px) {
