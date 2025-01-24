@@ -60,6 +60,7 @@
   text-decoration: none;
   font-weight: bold;
   color: black;
+  align-items: center;
 }
 
 .footer {
@@ -77,12 +78,14 @@
     padding: 0;
     margin: 0;
     font-size: 10px;
+    align-items: center;
 }
 
 #terms a {
     text-decoration: none;
     color: black;
     font-weight: bold;
+    align-items: center;
 }
 
 .logo {
