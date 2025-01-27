@@ -179,9 +179,13 @@
     padding: 15px 40px;
   }
 
+   .nav{
+    position: right;
+    }
+
   .nav a {
     font-size: 20px;
-    text-position: right;
+    position: right;
   }
   
   .logo {
