@@ -104,6 +104,9 @@
     align-items: center;
   }
   
+  .logo{
+      margin-bottom: 10px;
+    }
   
   .footer {
     flex-direction: column;
@@ -164,17 +167,22 @@
     font-size: 25px;
   }
   
+  .logo {
+    margin-right: 10px;
+    }
+
     .footer {
     padding: 15px 40px;
   }
 
-  h2 {
+  .container h2 {
      font-size: 20px;
 }
 
-  p {
+  .container p {
     font-size: 15px;
   }
+
 }
 
         @media (max-width: 768px) {
