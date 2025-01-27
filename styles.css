@@ -177,12 +177,12 @@
   }
 
    .nav{
- 
+    display: flex;
     }
 
   .nav a {
     font-size: 20px;
-    width: 40%;
+    display: flex;
 
   }
   
