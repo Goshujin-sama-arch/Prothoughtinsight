@@ -23,6 +23,18 @@
             font-family: fantasy;
             font-style: italic;
         }
+
+        h2{
+           font-size: 15px;
+        }
+
+        p{
+          font-size: 13px;
+       }
+
+        ul{
+          font-size: 13px;
+        } 
         
         .card-title a{
             color: black;
@@ -167,19 +179,11 @@
   }
   
   .logo {
-    margin-right: 10px;
+    margin: 15px;
     }
 
     .footer {
     padding: 15px 40px;
-  }
-
-  .container h2 {
-     font-size: 20px;
-}
-
-  .container p {
-    font-size: 15px;
   }
 
 }
