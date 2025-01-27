@@ -176,6 +176,7 @@
 
    .nav{
     text-align: right;
+    display: flex;
     }
 
   .nav a {
