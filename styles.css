@@ -10,7 +10,7 @@
             padding: 15px;
         }        
         
-        .image {
+        . container img {
             height: 80%;
             width: 80%;
         }
@@ -23,18 +23,6 @@
             font-family: fantasy;
             font-style: italic;
         }
-
-        h2{
-           font-size: 15px;
-        }
-
-        p{
-          font-size: 13px;
-       }
-
-        ul{
-          font-size: 13px;
-        } 
         
         .card-title a{
             color: black;
@@ -181,12 +169,12 @@
   }
 
    .nav{
-    position: right;
+    text-align: right;
     }
 
   .nav a {
     font-size: 20px;
-    position: right;
+    text-align: right;
   }
   
   .logo {
