@@ -1,4 +1,4 @@
-body {
+     body {
             font-family: Arial, sans-serif;
             background-color: #f5f5f5;
             margin: 0 auto;
@@ -34,8 +34,7 @@ body {
   display: flex;
   align-items: center;
   border-bottom: 3px solid #ff4500; /* Red bottom border */
-  margin: 10px;
-  padding: 10px;
+  padding: 20px;
 }
 
 .logo {
