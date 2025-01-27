@@ -34,6 +34,8 @@ body {
   display: flex;
   align-items: center;
   border-bottom: 3px solid #ff4500; /* Red bottom border */
+  margin: 10px;
+  padding: 10px;
 }
 
 .logo {
