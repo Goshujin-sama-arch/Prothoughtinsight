@@ -67,6 +67,16 @@
 }
 
 
+.nav a:hover {
+     color: orange;
+    }
+
+.nav a:active {
+   color: orange;
+    }
+
+
+
 .footer {
   background-color: #FFA500; 
   padding: 30px 50px;
