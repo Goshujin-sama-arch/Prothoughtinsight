@@ -73,8 +73,12 @@
 
 .nav a:active {
    color: orange;
+   font-weight: bold;
     }
 
+.nav a:focus {
+   color: white;
+  }
 
 
 .footer {
