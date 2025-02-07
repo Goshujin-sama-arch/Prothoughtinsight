@@ -36,6 +36,10 @@
            font-size: 1em;
          }
 
+       section p{
+           font-size: 1em;
+         }
+
         .card-title a{
             color: black;
         }
