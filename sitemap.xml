@@ -1,56 +1,57 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <!-- Home Page -->
   <url>
-    <loc>https://goshujin-sama-arch.github.io/Prothoughtinsight/</loc>
-    <lastmod>2025-01-03</lastmod>
+    <loc>https://prothoughtinsight.name.ng</loc>
+    <lastmod>2025-02-15</lastmod>
     <priority>1.0</priority>
   </url>
   
   <!-- Blog Posts -->
   <url>
-    <loc>https://goshujin-sama-arch.github.io/Prothoughtinsight/Facebook-Local-SEO/</loc>
-    <lastmod>2025-01-01</lastmod>
+    <loc>https://prothoughtinsight.name.ng/Facebook-Local-SEO/</loc>
+    <lastmod>2025-02-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://goshujin-sama-arch.github.io/Prothoughtinsight/Facebook-Marketing-Strategies/</loc>
-    <lastmod>2025-01-02</lastmod>
+    <loc>https://prothoughtinsight.name.ng/Facebook-Marketing-Strategies/</loc>
+    <lastmod>2025-02-15</lastmod>
     <priority>0.8</priority>
   </url>
   
-  <loc>https://goshujin-sama-arch.github.io/Prothoughtinsight/Instagram-Marketing-Strategies/</loc>
-    <lastmod>2025-01-02</lastmod>
+  <loc>https://prothoughtinsight.name.ng/Instagram-Marketing-Strategies/</loc>
+    <lastmod>2025-02-15</lastmod>
     <priority>0.8</priority>
   </url>
   
-  <loc>https://goshujin-sama-arch.github.io/Prothoughtinsight/Instagram-Profile-For-Business/</loc>
-    <lastmod>2025-01-02</lastmod>
+  <loc>https://prothoughtinsight.name.ng/Instagram-Profile-For-Business/</loc>
+    <lastmod>2025-02-15</lastmod>
     <priority>0.8</priority>
   </url>
   
-  <loc>https://goshujin-sama-arch.github.io/Prothoughtinsight/YouTube-Marketing-Strategies/</loc>
-    <lastmod>2025-01-02</lastmod>
+  <loc>https://prothoughtinsight.name.ng/YouTube-Marketing-Strategies/</loc>
+    <lastmod>2025-02-15</lastmod>
     <priority>0.8</priority>
   </url>
   
-  <loc>https://goshujin-sama-arch.github.io/Prothoughtinsight/Strategies-To-Grow-Your-YouTube-Channel/</loc>
-    <lastmod>2025-01-02</lastmod>
+  <loc>https://prothoughtinsight.name.ng/Strategies-To-Grow-Your-YouTube-Channel/</loc>
+    <lastmod>2025-02-15</lastmod>
     <priority>0.8</priority>
   </url>
   
  
- <!-- Privacy Policy --> <loc>https://goshujin-sama-arch.github.io/Prothoughtinsight/Privacy-Policy/</loc>
-    <lastmod>2025-01-02</lastmod>
+ <!-- Privacy Policy --> <loc>https://prothoughtinsight.name.ng/Privacy-Policy/</loc>
+    <lastmod>2025-02-15</lastmod>
     <priority>0.8</priority>
   </url>
   
   
   <!-- About Page -->
   <url>
-    <loc>https://goshujin-sama-arch.github.io/Prothoughtinsight/About/</loc>
-    <lastmod>2025-01-01</lastmod>
+    <loc>https://prothoughtinsight.name.ng/About/</loc>
+    <lastmod>2025-02-15</lastmod>
     <priority>0.6</priority>
   </url>
   
