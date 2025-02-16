@@ -1,9 +1,7 @@
 
 
 User-agent: *
-Disallow: /private/
-Disallow: /temp/
 Allow: /
 
-Sitemap: https://prothoughtinsight/sitemap.xml
+Sitemap: https://prothoughtinsight.name.ng/sitemap.xml
 
