@@ -1,6 +1,0 @@
-
-
-User-agent: *
-Allow: /
-Sitemap: prothoughtinsight.name.ng/sitemap.xml
-
