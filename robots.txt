@@ -1,6 +1,6 @@
 
 
-User-agent:*
-Allow:/
-Sitemap:https://prothoughtinsight.name.ng/sitemap.xml
+User-agent: *
+Allow: /
+Sitemap: prothoughtinsight.name.ng/sitemap.xml
 
